@@ -1,4 +1,4 @@
-a = int(input())
-b = int(input())
+a = int(input("First number: "))
+b = int(input("Second number: "))
 
-print(20 if 15 <= a + b <= 20 else a + b)
+print("Result: ", 20 if 15 <= a + b <= 20 else a + b)
