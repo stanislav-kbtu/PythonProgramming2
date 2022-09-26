@@ -1,6 +1,6 @@
 import re
 
-list = input().split(", ")
+list = "+7 777 621 34 56, 87012345678, +7078904367, 87687686, 9-7014460411, 8-701-446-04-11".split(", ")
 print(list)
 
 for number in list:
