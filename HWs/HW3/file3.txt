@@ -1,0 +1,14 @@
+that`s the 1 line in file1.txt
+that`s the 1 line in file2.txt
+that`s the 2 line in file1.txt
+that`s the 2 line in file2.txt
+that`s the 3 line in file1.txt
+that`s the 3 line in file2.txt
+that`s the 4 line in file1.txt
+that`s the 4 line in file2.txt
+that`s the 5 line in file1.txt
+that`s the 5 line in file2.txt
+that`s the 6 line in file1.txt
+that`s the 6 line in file2.txt
+that`s the 7 line in file1.txt
+that`s the 7 line in file2.txt
